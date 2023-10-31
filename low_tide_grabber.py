@@ -14,6 +14,11 @@ locations_of_interest = {
 
 
 def find_daylight_low_tides(location_dict):
+    """
+    A function for parsing a location's tide data from www.tide-forecast.com to find upcoming daylight low tide
+    events for tide pool exploration
+    """
+
     for name, details in location_dict.items():
         print("\n%s searching for daylight low tides..." % name)
 
