@@ -9,7 +9,7 @@ The following development environment is recommended:
 ## Installation
 **NOTE: These installation steps are for Unix systems, Windows install steps are slightly different** (e.g. "\\" instead of "/" in paths, slight differences in Python paths, etc.) Please let me know if steps for Windows are needed.
 ### Install Python 3.11
-Follow the instructions from [python.org](www.python.org) based on your system.
+Follow the instructions from [python.org](https://www.python.org/downloads/release/python-3116) based on your system.
 
 ### Clone this project
 * Change directory (cd) into the directory where you want to clone this project. This example will clone the directory into the `/home/pi` (~) directory.
